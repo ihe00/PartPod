@@ -1,0 +1,190 @@
+
+  <?xml version="1.0" encoding="UTF-8"?>
+  <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Rhalp</title>
+    <link>https://github.com/ihe00/PartPod</link>
+    <language></language>
+    <copyright></copyright>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:author>Part</itunes:author>
+    <itunes:summary>PartPod</itunes:summary>  
+    <itunes:owner>
+      <itunes:name>Part</itunes:name>
+      <itunes:email></itunes:email>
+    </itunes:owner>
+    <itunes:image href="" />
+    <itunes:category text=""/>
+    
+      <item>
+        <title>PartPodOasthouse1</title>
+        <itunes:author>Part</itunes:author>
+        <itunes:subtitle>PartPod1</itunes:subtitle>
+        <itunes:summary>Ep1</itunes:summary>
+        <itunes:image href="" />
+        <enclosure url="https://github.com/ihe00/PartPod/blob/master/Pod/PartPod-01.mp3" length="38472291" type="audio/mpeg"/>
+        <guid>1</guid>
+        <pubDate>Sat Sep 12 2020 19:52:31 GMT+0100 (BST)</pubDate>
+        <itunes:duration>00:30:00</itunes:duration>
+      </item>
+    
+      <item>
+        <title>PartPodOasthouse1</title>
+        <itunes:author>Part</itunes:author>
+        <itunes:subtitle>PartPod2</itunes:subtitle>
+        <itunes:summary>Ep2</itunes:summary>
+        <itunes:image href="" />
+        <enclosure url="https://github.com/ihe00/PartPod/blob/master/Pod/PartPod-02.mp3" length="39761131" type="audio/mpeg"/>
+        <guid>2</guid>
+        <pubDate>Sat Sep 12 2020 19:52:31 GMT+0100 (BST)</pubDate>
+        <itunes:duration>00:30:00</itunes:duration>
+      </item>
+    
+      <item>
+        <title>PartPodOasthouse3</title>
+        <itunes:author>Part</itunes:author>
+        <itunes:subtitle>PartPod3</itunes:subtitle>
+        <itunes:summary>Ep3</itunes:summary>
+        <itunes:image href="" />
+        <enclosure url="https://github.com/ihe00/PartPod/blob/master/Pod/PartPod-03.mp3" length="38936351" type="audio/mpeg"/>
+        <guid>3</guid>
+        <pubDate>Sat Sep 12 2020 19:52:31 GMT+0100 (BST)</pubDate>
+        <itunes:duration>00:30:00</itunes:duration>
+      </item>
+    
+      <item>
+        <title>PartPodOasthouse4</title>
+        <itunes:author>Part</itunes:author>
+        <itunes:subtitle>PartPod4</itunes:subtitle>
+        <itunes:summary>Ep4</itunes:summary>
+        <itunes:image href="" />
+        <enclosure url="https://github.com/ihe00/PartPod/blob/master/Pod/PartPod-04.mp3" length="42680904" type="audio/mpeg"/>
+        <guid>4</guid>
+        <pubDate>Sat Sep 12 2020 19:52:31 GMT+0100 (BST)</pubDate>
+        <itunes:duration>00:30:00</itunes:duration>
+      </item>
+    
+      <item>
+        <title>PartPodOasthouse5</title>
+        <itunes:author>Part</itunes:author>
+        <itunes:subtitle>PartPod5</itunes:subtitle>
+        <itunes:summary>Ep5</itunes:summary>
+        <itunes:image href="" />
+        <enclosure url="https://github.com/ihe00/PartPod/blob/master/Pod/PartPod-05.mp3" length="38472291" type="audio/mpeg"/>
+        <guid>5</guid>
+        <pubDate>Sat Sep 12 2020 19:52:31 GMT+0100 (BST)</pubDate>
+        <itunes:duration>00:30:00</itunes:duration>
+      </item>
+    
+      <item>
+        <title>PartPodOasthouse6</title>
+        <itunes:author>Part</itunes:author>
+        <itunes:subtitle>PartPod6</itunes:subtitle>
+        <itunes:summary>Ep6</itunes:summary>
+        <itunes:image href="" />
+        <enclosure url="https://github.com/ihe00/PartPod/blob/master/Pod/PartPod-06.mp3" length="41025408" type="audio/mpeg"/>
+        <guid>6</guid>
+        <pubDate>Sat Sep 12 2020 19:52:31 GMT+0100 (BST)</pubDate>
+        <itunes:duration>00:30:00</itunes:duration>
+      </item>
+    
+     <item>
+        <title>PartPodOasthouse7</title>
+        <itunes:author>Part</itunes:author>
+        <itunes:subtitle>PartPod7</itunes:subtitle>
+        <itunes:summary>Ep7</itunes:summary>
+        <itunes:image href="" />
+        <enclosure url="https://github.com/ihe00/PartPod/blob/master/Pod/PartPod-07.mp3" length="39440443" type="audio/mpeg"/>
+        <guid>7</guid>
+        <pubDate>Sat Sep 12 2020 19:52:31 GMT+0100 (BST)</pubDate>
+        <itunes:duration>00:30:00</itunes:duration>
+      </item>
+    
+      <item>
+        <title>PartPodOasthouse8</title>
+        <itunes:author>Part</itunes:author>
+        <itunes:subtitle>PartPod8</itunes:subtitle>
+        <itunes:summary>Ep8</itunes:summary>
+        <itunes:image href="" />
+        <enclosure url="https://github.com/ihe00/PartPod/blob/master/Pod/PartPod-08.mp3" length="41577010" type="audio/mpeg"/>
+        <guid>8</guid>
+        <pubDate>Sat Sep 12 2020 19:52:31 GMT+0100 (BST)</pubDate>
+        <itunes:duration>00:30:00</itunes:duration>
+      </item>
+    
+      <item>
+        <title>PartPodOasthouse9</title>
+        <itunes:author>Part</itunes:author>
+        <itunes:subtitle>PartPod9</itunes:subtitle>
+        <itunes:summary>Ep9</itunes:summary>
+        <itunes:image href="" />
+        <enclosure url="https://github.com/ihe00/PartPod/blob/master/Pod/PartPod-09.mp3" length="38557996" type="audio/mpeg"/>
+        <guid>9</guid>
+        <pubDate>Sat Sep 12 2020 19:52:31 GMT+0100 (BST)</pubDate>
+        <itunes:duration>00:30:00</itunes:duration>
+      </item>
+    
+      <item>
+        <title>PartPodOasthouse10</title>
+        <itunes:author>Part</itunes:author>
+        <itunes:subtitle>PartPod10</itunes:subtitle>
+        <itunes:summary>Ep10</itunes:summary>
+        <itunes:image href="" />
+        <enclosure url="https://github.com/ihe00/PartPod/blob/master/Pod/PartPod-10.mp3" length="38658599" type="audio/mpeg"/>
+        <guid>10</guid>
+        <pubDate>Sat Sep 12 2020 19:52:31 GMT+0100 (BST)</pubDate>
+        <itunes:duration>00:30:00</itunes:duration>
+      </item>
+    
+      <item>
+        <title>PartPodOasthouse11</title>
+        <itunes:author>Part</itunes:author>
+        <itunes:subtitle>PartPod11</itunes:subtitle>
+        <itunes:summary>Ep11</itunes:summary>
+        <itunes:image href="" />
+        <enclosure url="https://github.com/ihe00/PartPod/blob/master/Pod/PartPod-11.mp3" length="40293267" type="audio/mpeg"/>
+        <guid>11</guid>
+        <pubDate>Sat Sep 12 2020 19:52:31 GMT+0100 (BST)</pubDate>
+        <itunes:duration>00:30:00</itunes:duration>
+      </item>
+    
+      <item>
+        <title>PartPodOasthouse12</title>
+        <itunes:author>Part</itunes:author>
+        <itunes:subtitle>PartPod12</itunes:subtitle>
+        <itunes:summary>Ep12</itunes:summary>
+        <itunes:image href="" />
+        <enclosure url="https://github.com/ihe00/PartPod/blob/master/Pod/PartPod-12.mp3" length="42604409" type="audio/mpeg"/>
+        <guid>12</guid>
+        <pubDate>Sat Sep 12 2020 19:52:31 GMT+0100 (BST)</pubDate>
+        <itunes:duration>00:30:00</itunes:duration>
+      </item>
+      
+      
+       <item>
+        <title>PartPodOasthouse13</title>
+        <itunes:author>Part</itunes:author>
+        <itunes:subtitle>PartPod13</itunes:subtitle>
+        <itunes:summary>Ep13</itunes:summary>
+        <itunes:image href="" />
+        <enclosure url="https://github.com/ihe00/PartPod/blob/master/Pod/PartPod-13.mp3" length="38343365" type="audio/mpeg"/>
+        <guid>13</guid>
+        <pubDate>Sat Sep 12 2020 19:52:31 GMT+0100 (BST)</pubDate>
+        <itunes:duration>00:30:00</itunes:duration>
+      </item>
+    
+      <item>
+        <title>PartPodOasthouse14</title>
+        <itunes:author>Part</itunes:author>
+        <itunes:subtitle>PartPod14</itunes:subtitle>
+        <itunes:summary>Ep14</itunes:summary>
+        <itunes:image href="" />
+        <enclosure url="https://github.com/ihe00/PartPod/blob/master/Pod/PartPod-14.mp3" length="19181239" type="audio/mpeg"/>
+        <guid>14</guid>
+        <pubDate>Sat Sep 12 2020 19:52:31 GMT+0100 (BST)</pubDate>
+        <itunes:duration>00:14:34</itunes:duration>
+      </item>
+    
+    
+  </channel>
+  </rss>
